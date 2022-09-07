@@ -4,6 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="a645a6e5-bca2-4484-ad23-e117c0428a11" name="Changes" comment="дз1" />
+    <list default="true" id="a645a6e5-bca2-4484-ad23-e117c0428a11" name="Changes" comment="">
     <list default="true" id="a645a6e5-bca2-4484-ad23-e117c0428a11" name="Changes" comment="дз">
       <change afterPath="$PROJECT_DIR$/src/lesson1/homeWork1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -63,6 +65,21 @@
       <updated>1662559229384</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00001" summary="дз">
+      <created>1662559229379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662559229384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="дз1">
+      <created>1662574677492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662574677492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +96,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="дз" />
     <option name="LAST_COMMIT_MESSAGE" value="дз" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="дз" />
+    <MESSAGE value="дз1" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз1" />
   </component>
 </project>
